@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [N/A](N/A)
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **trading & Coding**
 
 - 📫 How to reach me **tradingfibonacci99@gmail.com**
 
