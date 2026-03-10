@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tradingfibonacci99@gmail.com**
 
-- 📄 Know about my experiences [DM on my Email](DM on my Email)
+- 📄 Know about my experiences [DM](DM)
 
 - ⚡ Fun fact **Coffee + Code = Productivity.**
 
