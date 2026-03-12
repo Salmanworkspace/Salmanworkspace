@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Salman</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A Software developer from India</h3>
 
 - 🔭 I’m currently working on **Full Stack Developer, APIs, Trading Systems, Market Data**
 
